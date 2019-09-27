@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "19523268477",
+    "firebase_url": "https://ulangan2-269f2.firebaseio.com",
+    "project_id": "ulangan2-269f2",
+    "storage_bucket": "ulangan2-269f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19523268477:android:c038d78d0e825fc314a614",
+        "android_client_info": {
+          "package_name": "com.example.ulangan_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19523268477-6d7hh5mvgufe2c63okujb5g3ndj8vg4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ulangan_2",
+            "certificate_hash": "e0c4af44d33fe8bf362e9bab27e96488539aeb68"
+          }
+        },
+        {
+          "client_id": "19523268477-jqjfb936jgsbltmeqhjs5f4tvk8ktqmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjZTbxtWtsDJgwYmg_psYvViUBZI3Opb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19523268477-jqjfb936jgsbltmeqhjs5f4tvk8ktqmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
